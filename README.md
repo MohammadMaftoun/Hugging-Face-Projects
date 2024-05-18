@@ -1,6 +1,7 @@
 # Hugging Face Projects Repository
+Welcome to the Hugging Face Projects repository! This repository collects diverse projects and examples utilizing Hugging Face's powerful transformer models and tools. Whether you're a seasoned developer or just starting with machine learning, you'll find a variety of resources to help you explore and implement state-of-the-art natural language processing (NLP) techniques.
+![HFP](https://huggingface.co/spaces/huggingface-projects/README/resolve/main/banner.png)
 
-Welcome to the Hugging Face Projects repository! This repository collects diverse projects and examples utilizing Hugging Face's powerful transformer models and tools. Whether you're a seasoned developer or just starting out with machine learning, you'll find a variety of resources to help you explore and implement state-of-the-art natural language processing (NLP) techniques.
 # Repository Contents
 1. Pre-trained Model Examples
 
@@ -36,7 +37,7 @@ To get started with the projects in this repository, follow these steps:
 
     Clone the Repository:
 
-git clone https://github.com/your-username/hugging-face-projects.git
+git clone https://github.com/MohammadMaftoun/Hugging-Face-Projects.git
 cd hugging-face-projects
 
 Install Dependencies:
