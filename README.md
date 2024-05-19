@@ -54,4 +54,4 @@ We welcome contributions from the community! If you have a project or improvemen
 
 # Acknowledgments
 
-A big thank you to the Hugging Face team for creating such an amazing suite of tools and to all the contributors who help make this repository a valuable resource for the NLP community.
+A big thank you to the Hugging Face team for constructing such an amazing suite of tools and to all the contributors who help make this repository a valuable resource for the NLP community.
