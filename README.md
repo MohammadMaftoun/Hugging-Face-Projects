@@ -1,14 +1,14 @@
 # Hugging Face Projects Repository
-Welcome to the Hugging Face Projects repository! This repository collects diverse projects and examples utilizing Hugging Face's powerful transformer models and tools. Whether you're a seasoned developer or just starting with machine learning, you'll find a variety of resources to help you explore and implement state-of-the-art natural language processing (NLP) techniques.
+Welcome to the Hugging Face Projects repository! This repository collects diverse projects and examples utilizing Hugging Face's powerful transformer models and tools. Whether you're a seasoned developer or just starting with machine learning, you'll find various resources to help you explore and implement state-of-the-art natural language processing (NLP) techniques.
 
 ![HFP](https://huggingface.co/spaces/huggingface-projects/README/resolve/main/banner.png)
 
 # Repository Contents
 1. Pre-trained Model Examples
 
-    Text Classification: Examples of pre-trained models like BERT, GPT-3, and DistilBERT for tasks such as sentiment analysis, spam detection, and topic classification.
+    Text Classification: Examples of pre-trained models like BERT, GPT-3, and DistilBERT for sentiment analysis, spam detection, and topic classification.
     Named Entity Recognition (NER): Implementations showcasing how to extract entities like names, dates, and locations from text.
-    Question Answering: Demonstrations of models that can answer questions based on a given context, using models such as BERT and RoBERTa.
+    Question Answering: Demonstrating models that can answer questions based on a given context, using models such as BERT and RoBERTa.
 
 2. Custom Model Training
 
