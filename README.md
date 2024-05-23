@@ -46,7 +46,7 @@ Install Dependencies:
     pip install -r requirements.txt
 
     Explore the Projects:
-    You can just navigate through the folders to explore different projects and examples. Each project contains its own README file with specific instructions.
+    You can navigate through the folders to explore different projects and examples. Each project contains its own README file with specific instructions.
 
 # Contribution Guidelines
 
