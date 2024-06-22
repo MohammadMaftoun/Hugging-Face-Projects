@@ -8,7 +8,7 @@ Welcome to the Hugging Face Projects repository! This repository collects divers
 
     Text Classification: Examples of pre-trained models like BERT, GPT-3, and DistilBERT for sentiment analysis, spam detection, and topic classification.
     Named Entity Recognition (NER): Implementations showcasing how to extract entities like names, dates, and locations from text.
-    Question Answering: Demonstrating models that can answer questions based on a given context, using models such as BERT and RoBERTa.
+    Question Answering: Indicating models that can answer questions based on context, using models such as BERT and RoBERTa.
 
 2. Custom Model Training
 
